@@ -1,0 +1,28 @@
+id: A2CE86198
+title: The Secret Vajra Knot
+type: translation
+pechas:
+- I99E5146C
+- IDB23B1A1
+- I84207A38
+- I63A3A01A
+- I8D0A144B
+source_metadata:
+  languages:
+  - en
+  - de
+  - es
+  - fr
+  - bo
+  datatype: PlainText
+  created_at: 2023-01-04 13:03:01.307794
+  last_modified_at: 2023-01-04 13:03:01.307801
+  collections:
+  - Minling Terchen Gyurme Dorje Series
+  - Works of Tibetan Masters
+alignment_to_base:
+  I99E5146C/7FA6: F1EC
+  IDB23B1A1/19E0: F1EC
+  I84207A38/0A99: F1EC
+  I63A3A01A/DDAA: F1EC
+  I8D0A144B/7E04: F1EC
